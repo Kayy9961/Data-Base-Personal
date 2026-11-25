@@ -3715,7 +3715,6 @@ PrettyFocus-J0SA
 ProudHeir-RPuB
 QuietClue-JHmj
 QuietDream-oV1Y
-QuietStar-D4w4
 ragemonster3002
 Realsky
 RichLure-7Dg6
@@ -3860,7 +3859,6 @@ ProudRise-w0Ek
 ProudShow-e7qw
 ProudSnap-KsSD
 QuietQuiz-xPix
-QuietStar-D4w4
 ragemonster3002
 RealHaven-JTZs
 RealRun-kxZM
@@ -3934,7 +3932,6 @@ PlumpIdol-PKW9
 PrettyCop-adub
 PureJudge-HpKz
 QuickFire-aoUU
-QuietStar-D4w4
 Realsky
 Revised107
 RoundPint-199T
@@ -3972,7 +3969,6 @@ PeppyCrisp-tlbV
 PerkySandman068
 ProudSong-KVrw
 QuickFairy-98u6
-QuietStar-D4w4
 ragemonster3002
 Realsky
 RoundDuke-0j4e
@@ -4009,7 +4005,6 @@ PerkySandman068
 ProudGrin-PoYi
 ProudSage-UeCR
 QuietDash-ISC9
-QuietStar-D4w4
 R4yz3neq_
 RacyPhase-9QOg
 RichLeap-mQJQ
@@ -4065,7 +4060,6 @@ PeppySnack-TQNg
 PerkySandman068
 QuickBell-By1B
 QuickHand-z2UE
-QuietStar-D4w4
 RacyPoem-odP3
 RoyalBear-Zwr8
 RoyalCalm-l25o
@@ -7796,7 +7790,6 @@ PrettyFocus-J0SA
 ProudHeir-RPuB
 QuietClue-JHmj
 QuietDream-oV1Y
-QuietStar-D4w4
 ragemonster3002
 Realsky
 RichLure-7Dg6
@@ -7941,7 +7934,6 @@ ProudRise-w0Ek
 ProudShow-e7qw
 ProudSnap-KsSD
 QuietQuiz-xPix
-QuietStar-D4w4
 ragemonster3002
 RealHaven-JTZs
 RealRun-kxZM
@@ -8015,7 +8007,6 @@ PlumpIdol-PKW9
 PrettyCop-adub
 PureJudge-HpKz
 QuickFire-aoUU
-QuietStar-D4w4
 Realsky
 Revised107
 RoundPint-199T
@@ -8053,7 +8044,6 @@ PeppyCrisp-tlbV
 PerkySandman068
 ProudSong-KVrw
 QuickFairy-98u6
-QuietStar-D4w4
 ragemonster3002
 Realsky
 RoundDuke-0j4e
@@ -8090,7 +8080,6 @@ PerkySandman068
 ProudGrin-PoYi
 ProudSage-UeCR
 QuietDash-ISC9
-QuietStar-D4w4
 R4yz3neq_
 RacyPhase-9QOg
 RichLeap-mQJQ
@@ -8161,7 +8150,6 @@ PrimeHaste-h1hr
 ProudFrame-jWoT
 PuffyShine-GVyv
 pumpkin_sells
-QuietStar-D4w4
 RacyHalo-Cmoe
 RaulU
 RealBlush-I71H
@@ -8233,7 +8221,6 @@ PeppySnack-TQNg
 PerkySandman068
 QuickBell-By1B
 QuickHand-z2UE
-QuietStar-D4w4
 RacyPoem-odP3
 RoyalBear-Zwr8
 RoyalCalm-l25o
@@ -8338,7 +8325,6 @@ Pugtouchgrass
 PureBlush-ix1q
 PureCore-hfaa
 QuickJudge-4kko
-QuietStar-D4w4
 RacyMask-2w4R
 Ratipana
 ReadyFlag-l8Kj
@@ -8492,7 +8478,6 @@ Qu11z
 QuickLeaf-vrbC
 QuietFeast-wX4a
 QuietFocus-Lf2G
-QuietStar-D4w4
 RacyHeat-nASn
 RacyPoem-lfIe
 ReadySnack-x8QH
@@ -8759,7 +8744,6 @@ QuickFuzz-08iy
 QuickKite-VPPZ
 QuickRoar-CK5A
 QuietEvent-3N8H
-QuietStar-D4w4
 quusaai234u
 Qzoc
 RacyAsset-lIDI
@@ -8972,7 +8956,6 @@ puresnow_hq
 QuickFoam-cNav
 QuietBow-6mmW
 QuietHive-ckDz
-QuietStar-D4w4
 RacyCoin-GPU1
 RacyCube-4YJi
 RacySong-YCuN
@@ -9046,7 +9029,6 @@ NobleForm-EEVN
 PerkySeed-AvyF
 PoliteRoot-nksl
 PrimeSun-Gyqt
-QuietStar-D4w4
 RipeDash-9XQ6
 RobustPerk-GO0O
 RoundLush-u9dE
@@ -9108,7 +9090,6 @@ PrimeSwift-RcS3
 ProudBrain-aiHu
 PurePear-lUrJ
 QuietClap-zJN7
-QuietStar-D4w4
 RacyFlag-U1ym
 RedwilFPS
 SadVinni
@@ -9144,7 +9125,6 @@ PlumpChild-BtfD
 PoliteJump-PTXL
 PrettyBurst-sb1g
 QuickRock-ioUk
-QuietStar-D4w4
 RoundGlint-wP2A
 SamieBr
 Scotty_sells
@@ -9444,7 +9424,6 @@ PureRing-RLg9
 QuickSnap-GX8V
 QuietEdge-ERaI
 QuietSmile-CBsm
-QuietStar-D4w4
 R2lf
 RacyGlow-ru1i
 ReadyFlow-j2w8
@@ -9574,7 +9553,6 @@ NerdyGift-Lmq2
 OpenOasis-lLJr
 PuffyCrown-HMlK
 PureGlow-ssLQ
-QuietStar-D4w4
 RipeChow-S44z
 RipePeak-yVv4
 SafeSnack-jrNc
@@ -9589,7 +9567,6 @@ PeppyReign-y45k
 ProudGrace-fJlQ
 ProudRuler-1PN2
 PureGlow-ssLQ
-QuietStar-D4w4
 slevpy_
 SweetHeir-bk4b
 TrickyBinder851
@@ -9612,7 +9589,6 @@ NerdyGift-Lmq2
 OpenOasis-lLJr
 PuffyCrown-HMlK
 PureGlow-ssLQ
-QuietStar-D4w4
 RipeChow-S44z
 RipePeak-yVv4
 SafeSnack-jrNc
@@ -9650,7 +9626,6 @@ NiftySage-SkQh
 PerkyHeir-GIcR
 PinkBell-0v5p
 QuickFlush-8yqz
-QuietStar-D4w4
 RichFolly-JP8L
 RipeChow-S44z
 RobustClue-Xs9f
@@ -9677,7 +9652,6 @@ ozuzloot
 PlushPark-FhCw
 PrettyOasis-FkJE
 QuickLight-ZXWa
-QuietStar-D4w4
 SaltyFlare-PIhb
 SaucyFlame-lAhj
 SaucyForce-PM58
@@ -9707,7 +9681,6 @@ noob_
 polyword1
 PuffyHunk-KRNd
 QuietGift-7JqV
-QuietStar-D4w4
 RacyGrace-R7bc
 SadVinni
 SlickDuke-5Vdu
@@ -9729,7 +9702,6 @@ GreatRiff-Ychr
 HighOasis-p6dL
 JollyPear-No4X
 PeppyChamp-QMya
-QuietStar-D4w4
 RichMask-xi76
 SnazzyBliss-AQ7n
 SnazzyGame-SAyz
@@ -9779,7 +9751,6 @@ PrettySprig-zNRy
 ProudFlare-8qFU
 PureFox-vDFW
 QuickGem-pdmE
-QuietStar-D4w4
 RobustGlint-5MJA
 SafeFeast-nrml
 SavvyPals-T9AZ
@@ -9855,7 +9826,7 @@ PrettyFox-NBSR
 PrettyGoal-rB0W
 qedi
 QuietPeak-zrJO
-QuietStar-D4w4
+
 ReadyLab-R80n
 RealFolly-JIL7
 rnikolcia
@@ -9879,13 +9850,13 @@ KindHerb-UiLT
 LeanAsset-rKvj
 Pibless
 QuickGem-pdmE
-QuietStar-D4w4
+
 SlickSteam-GjXh
 SpicyAroma-VMNb
 AmplePro-aJr5
 CrispNote-7b9m
 EricoInDaHood
-QuietStar-D4w4
+
 Raxio
 Des2x
 fortnitegamer67x
@@ -9896,7 +9867,7 @@ Kmkkosec
 LeafyHeart-Ot2x
 PeppyEcho-PNca
 Pibless
-QuietStar-D4w4
+
 SlickSteam-GjXh
 TestbotTrader0
 TheForger
@@ -9932,7 +9903,7 @@ PerkyEvent-q7rM
 PlushFang-GsUJ
 PrettySprig-zNRy
 PuffyChirp-c1nh
-QuietStar-D4w4
+
 RipeFeast-rZrA
 SaltyGist-Uasy
 SaltyGrip-wjam
@@ -10042,7 +10013,7 @@ QuickFox-wTO8
 QuietBro-0qm8
 QuietDash-BD2w
 QuietFlare-KtnL
-QuietStar-D4w4
+
 Rblx_Shop
 ReadySteam-4HDj
 ReallyyAspen
@@ -10160,7 +10131,7 @@ ProudRun-PSuA
 ProudSage661
 QuietBliss-esOM
 QuietFlash-WXOE
-QuietStar-D4w4
+
 R4yz3neq_
 ReadySun-5fnX
 RichCrisp-YuiR
@@ -10233,7 +10204,7 @@ pdvstore
 PeppyScout-8Ubs
 PerkyDream-J0MZ
 ProudFloat-fhMk
-QuietStar-D4w4
+
 RealBulb-WnDb
 RipeBliss-iCkW
 RoyalHint-WefK
@@ -10326,7 +10297,7 @@ PrettyDrop-koWS
 PuffyChow-53Ox
 QuickSteam-dHwX
 QuietQuip-Ie37
-QuietStar-D4w4
+
 RacyRace-Rj0X
 Radiant_Market
 ReallyyAspen
@@ -10404,7 +10375,7 @@ PlumpPlum-gsL6
 PlushEpic-q95d
 PrettyFox-NBSR
 QuantumAlex
-QuietStar-D4w4
+
 RacyPoem-lfIe
 realasenbg
 SassySoldier793
@@ -10435,7 +10406,7 @@ NobleChow-djbN
 NubbyFlash-Bg3b
 PeppyBro-SOcq
 QuietPip-jncZ
-QuietStar-D4w4
+
 RacyRace-Rj0X
 SaucyCove-VHiT
 Schaar_nl
@@ -10450,7 +10421,7 @@ Ghost4sh
 NobleReel-nzBp
 PrettySprig-zNRy
 QuickCove-a9vm
-QuietStar-D4w4
+
 Roter
 SassyBlush-VOGw
 Schaar_nl
@@ -10474,7 +10445,7 @@ LoyalPage-A3IT
 LuckyPulse-bJRl
 PlumpRace-Kt0u
 PureIcon-SJ5c
-QuietStar-D4w4
+
 Roter
 SafeRally-9P0i
 SaltyBulb-gE2k
